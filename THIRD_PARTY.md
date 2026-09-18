@@ -1,6 +1,6 @@
 # Сторонние компоненты и ресурсы
 
-Space2D 1.2.0 использует SDL 3.4.16 (zlib license) и библиотеки исполнения LLVM-MinGW: libc++, libunwind и winpthreads. Тексты лицензий находятся в папке `licenses` игрового архива.
+Space2D 1.3.0 использует SDL 3.4.16 (zlib license) и библиотеки исполнения LLVM-MinGW: libc++, libunwind и winpthreads. Тексты лицензий находятся в папке `licenses` игрового архива.
 
 - [Исходники SDL 3.4.16](https://github.com/libsdl-org/SDL/tree/release-3.4.16).
 - [Комплект LLVM-MinGW 20260908](https://github.com/mstorsjo/llvm-mingw/releases/tag/20260908).
