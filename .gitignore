@@ -1,0 +1,7 @@
+dist/
+*.zip
+*.exe
+*.dll
+*.log
+.env
+.env.*
