@@ -1,12 +1,14 @@
-# Space2D Demo 1.3.0
+# Andromeda — демоверсия
 
 Космическая 2D-демоверсия для **Windows 10/11 x64 / Direct3D 12**. Инерционный полёт, добыча минералов, бои с пиратами, станции и задания их обитателей.
 
-**[Скачать Space2D 1.3.0 для Windows](https://github.com/mospromsoft-dotcom/Space2D-Demo/releases/download/v1.3.0/Space2D-1.3.0-win64.zip)** · [Страница выпуска](https://github.com/mospromsoft-dotcom/Space2D-Demo/releases/tag/v1.3.0) · [История изменений](CHANGELOG.md)
+**[Скачать демо 1.3.0 для Windows](https://github.com/mospromsoft-dotcom/Andromeda-Demo/releases/download/v1.3.0/Space2D-1.3.0-win64.zip)** · [Страница выпуска](https://github.com/mospromsoft-dotcom/Andromeda-Demo/releases/tag/v1.3.0)
+
+Проект переименован в **Andromeda**. Текущий опубликованный пакет v1.3.0 сохраняет прежние имена архива и `Space2D.exe`; его содержимое не заменено экспериментальной сборкой. Новые локальные сборки исходного проекта называются `Andromeda.exe`.
 
 ![Глубина сектора](images/depth-sector.png)
 
-## Новое в 1.3.0
+## Возможности
 
 - Четыре промежуточных слоя с редкими камнями и тремя типами спутников; постоянные мировые позиции и согласованный параллакс.
 - По два далёких патрульных и одному служебному кораблю у каждой станции, с правильным масштабом и пролётом перед/за её силуэтом.
